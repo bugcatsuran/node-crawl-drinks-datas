@@ -1,4 +1,3 @@
-# node-crawl-drinks-datas
 
 npm install
 
